@@ -1,1 +1,1 @@
-# bootstripe-website
+# bootstrap-website
